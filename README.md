@@ -44,4 +44,4 @@
 > gulp, ansible, jenkins, docker
 
 ## etc
-> SPA, HA, Test(unit, integration, e2e), CI, DesignPattern, Agile, Scrum, async/sync
+> [SPA](https://en.wikipedia.org/wiki/Single-page_application), [SEO](https://ko.wikipedia.org/wiki/%EA%B2%80%EC%83%89_%EC%97%94%EC%A7%84_%EC%B5%9C%EC%A0%81%ED%99%94), [HA](https://ko.wikipedia.org/wiki/%EA%B3%A0%EA%B0%80%EC%9A%A9%EC%84%B1), Test(unit, integration, e2e), CI, DesignPattern, async/sync
